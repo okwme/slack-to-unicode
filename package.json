@@ -1,0 +1,19 @@
+{
+  "name": "slack-to-unicode",
+  "version": "1.0.0",
+  "description": "convert slack to unicode",
+  "main": "emoji.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okwme/slack-to-unicode.git"
+  },
+  "author": "https://github.com/aaronpk/Slack-IRC-Gateway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okwme/slack-to-unicode/issues"
+  },
+  "homepage": "https://github.com/okwme/slack-to-unicode#readme"
+}
